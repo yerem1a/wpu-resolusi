@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 -JAVASCIPT
  *ES6
  *Framework Javascript
+ -Struktur Data Dasar
 -PHP FRAMEWORK
 -Interview
 -Vlog
+
